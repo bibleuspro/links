@@ -2,22 +2,22 @@
 
 https://www.quora.com/Tutorials-How-can-I-download-PluralSight-training-videos
 
-printed circuit board (PCB) manufacturing and surface mount (SMT)
-printed circuit board (PCB)
-surface mount (SMT)
+printed circuit board (PCB) manufacturing and surface mount (SMT)<p>
+printed circuit board (PCB)<p>
+surface mount (SMT)<p>
 
 Machining:<p>
-depaneling
-pcb milling/CNC mill
+depaneling<p>
+pcb milling/CNC mill<p>
 
 
 
 
-red hat:
+red hat:<p>
 
 
 
-fedora:
+fedora:<p>
 
 
 

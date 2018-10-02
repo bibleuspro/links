@@ -6,7 +6,7 @@ printed circuit board (PCB) manufacturing and surface mount (SMT)
 printed circuit board (PCB)
 surface mount (SMT)
 
-Machining:
+Machining:<p>
 depaneling
 pcb milling/CNC mill
 

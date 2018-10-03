@@ -7,14 +7,23 @@ itrs net b2b
 <p>
  This material is based upon work supported by the Na-tional Science Foundation under Grant No. CNS-1205685and CNS-1205493
 <p>
+ https://www.researchgate.net/publication/317055439_A_Reconfigurable_Replica_Bitline_to_Determine_Optimum_SRAM_Sense_Amplifier_Set_Time
 <p>
+ https://www.researchgate.net/publication/320607435_A_high_performance_multi-port_SRAM_for_low_voltage_shared_memory_systems_in_32_nm_CMOS
 <p>
+ https://www.researchgate.net/publication/238833010_A_15-ns_access_time_78-_mu_msup_2_memory-cell_size_64-kb_ECL-CMOS_SRAM
 <p>
+ https://www.researchgate.net/publication/4357663_A_07V_single-supply_SRAM_with_0495um2_cell_in_65nm_technology_utilizing_self-write-back_sense_amplifier_and_cascaded_bit_line_scheme
 <p>
+ https://www.researchgate.net/publication/260627238_Highly_Energy-Efficient_SRAM_With_Hierarchical_Bit_Line_Charge-Sharing_Method_Using_Non-Selected_Bit_Line_Charges
 <p>
+ https://www.researchgate.net/publication/3508535_A_CAD_tool_for_designing_large_fault-tolerant_VLSI_arrays
 <p>
+ https://www.researchgate.net/publication/2978034_1-V_10-MHz_35-mW_1-Mb_MTCMOS_SRAM_with_charge-recycling_inputoutput_buffers
 <p>
+ https://www.researchgate.net/publication/2976865_A_15-ns_256-kb_BiCMOS_SRAM_with_60-ps_11-K_logic_gates
 <p>
+ https://www.researchgate.net/project/OpenRAM-An-Open-Source-Memory-Compiler
 <p>
 <p>
 <p>

@@ -13,8 +13,14 @@ itrs net b2b http://www.itrs2.net/ https://www.itrsgroup.com/
  <p>
   https://www.eda.ncsu.edu/wiki/FreePDK
   <p>
-   
- 
+   OpenRAM itself is implemented in Python and is independent of commercial tools. It directly
+generates SPICE, GDSII, Verilog, LEF, and Liberty (.lib) timing models. It has a simple, flexible
+technology infrastructure that allows easy porting to new technologies and has been successfully
+ported to MOSIS SCMOS SCN3ME (0.5 m), NCSU FreePDK (45nm), IBM CMOS 8SF, and IBM
+CMOS 32nm SOI. This list contains both freely available academic processes and commercially
+fabricable technologies, as well. It is distributed only with setup for the freely available academic
+processes (SCMOS and FreePDK), but with little effort can be easily and readily expanded.
+ <p>
  
  
  https://www.researchgate.net/publication/317055439_A_Reconfigurable_Replica_Bitline_to_Determine_Optimum_SRAM_Sense_Amplifier_Set_Time

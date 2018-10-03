@@ -1,12 +1,22 @@
 <p>
-itrs net b2b
- <>
+itrs net b2b http://www.itrs2.net/ https://www.itrsgroup.com/
+ <p>
  https://github.com/VLSIDA/OpenRAM
 <p>
  Designs are currently being fabricated to test designs us-ing the OpenRAM framework in SCMOS
 <p>
  This material is based upon work supported by the Na-tional Science Foundation under Grant No. CNS-1205685and CNS-1205493
 <p>
+ 
+ <p>
+ https://www.eda.ncsu.edu/wiki/NCSU_EDA_Wiki
+ <p>
+  https://www.eda.ncsu.edu/wiki/FreePDK
+  <p>
+   
+ 
+ 
+ 
  https://www.researchgate.net/publication/317055439_A_Reconfigurable_Replica_Bitline_to_Determine_Optimum_SRAM_Sense_Amplifier_Set_Time
 <p>
  https://www.researchgate.net/publication/320607435_A_high_performance_multi-port_SRAM_for_low_voltage_shared_memory_systems_in_32_nm_CMOS
@@ -232,8 +242,40 @@ existing Process Design Kits (PDKs)
    GdsMill source with OpenRAM
    
 <p>
+ SCN3ME_SUBM
 <p>
+ MOSIS Scalable CMOS
 <p>
+ 
+ 
+ <p>
+ <p> 
+  
+  risc-v SCMOS openram
+ <p>
+ RISC vs. CISC · Analysis and Design of an Offshore .... Microcomputer and Associated Languages v vii 1-10 2. ...... Some of the memory space may be left unimplemented or open. RAM for its .... This allows the critical data from high speed RAMs to CMOS RAMs which are provided with battery back up.
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ <p>
+ 
 
 
 The OpenRAM SRAM architecture is based on a bank ofmemory cells with peripheral circuits and control logic asillustrated in Figure 1. These are further reﬁned into eightmajor blocks: the bit-cell array, the address decoder, theword-line drivers, the column multiplexer, the pre-chargecircuitry, the sense ampliﬁer, the write drivers, and the con-trol logic.

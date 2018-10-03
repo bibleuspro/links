@@ -171,7 +171,13 @@ itrs net b2b
 <p>
 <p>
 <p>
+ SCMOS is not conﬁden-tial and an implementation using it is included, however, itdoes not include many advanced DSM design rules. Open-RAM has also been ported to other commercial technologies,but these are not directly included due to licensing issues. 
+
+(PDF) OpenRAM: an open-source memory compiler. Available from: https://www.researchgate.net/publication/310628824_OpenRAM_an_open-source_memory_compiler [accessed Oct 02 2018].
 <p>
+ To facilitate user modiﬁcation and technology interoperabil-ity, OpenRAM provides a reference implementation in 45nmFreePDK45 [17] and a fabricable option using the MOSISScalable CMOS (SCMOS) design rules [13]. FreePDK45uses many design rules found in modern technologies, but isnon-fabricable, while SCMOS enables fabrication of designsusing the MOSIS foundry services. 
+
+(PDF) OpenRAM: an open-source memory compiler. Available from: https://www.researchgate.net/publication/310628824_OpenRAM_an_open-source_memory_compiler [accessed Oct 02 2018].
 <p>
 s technology entered the Deep Sub-Micron (DSM) era,memory designs became one of the most challenging parts ofcircuit design due to decreasing static noise margins (SNM),increasing fabrication variability 
 
@@ -202,8 +208,16 @@ This paper introduces OpenRAM, an open-source memory compiler, that provides a p
 existing Process Design Kits (PDKs)
 <p>
 
-
+<p>
 6T memoory
+ <p>
+  GDSII ﬁle
+  <p>
+   GdsMill source with OpenRAM
+   
+<p>
+<p>
+<p>
 
 
 The OpenRAM SRAM architecture is based on a bank ofmemory cells with peripheral circuits and control logic asillustrated in Figure 1. These are further reﬁned into eightmajor blocks: the bit-cell array, the address decoder, theword-line drivers, the column multiplexer, the pre-chargecircuitry, the sense ampliﬁer, the write drivers, and the con-trol logic.

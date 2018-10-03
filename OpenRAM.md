@@ -1,7 +1,11 @@
 <p>
 itrs net b2b
+ <>
+ https://github.com/VLSIDA/OpenRAM
 <p>
+ Designs are currently being fabricated to test designs us-ing the OpenRAM framework in SCMOS
 <p>
+ This material is based upon work supported by the Na-tional Science Foundation under Grant No. CNS-1205685and CNS-1205493
 <p>
 <p>
 <p>

@@ -170,6 +170,9 @@ itrs net b2b
 <p>
 <p>
 <p>
+ The design class also derives from a layout class (hierar-chy layout.py). The design modules in OpenRAM are derived from thedesign class (design.py). The design class has a name, aSPICE model (netlist), and a layout. Both the SPICE modeland the layout inherit their capabilities from a hierarchicalclass. The design class also provides inherited functions toperform DRC and LVS veriﬁcation of any sub-design forhierarchical debugging.The design class derives from the spice class (hierarchyspice.py) which has a data structure to maintain the circuithierarchy. This class maintains the design instances, theirpins, and their connections as well as helper functions tomaintain the structure and connectivity of the circuit hier.. 
+
+(PDF) OpenRAM: an open-source memory compiler. Available from: https://www.researchgate.net/publication/310628824_OpenRAM_an_open-source_memory_compiler [accessed Oct 02 2018].
 <p>
  SCMOS is not conﬁden-tial and an implementation using it is included, however, itdoes not include many advanced DSM design rules. Open-RAM has also been ported to other commercial technologies,but these are not directly included due to licensing issues. 
 

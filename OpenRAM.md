@@ -1,3 +1,4 @@
+https://hackaday.io/project/160828-memory-card-made-of-amds-cmos-uv-eproms
 <p>
 itrs net b2b http://www.itrs2.net/ https://www.itrsgroup.com/
  <p>
